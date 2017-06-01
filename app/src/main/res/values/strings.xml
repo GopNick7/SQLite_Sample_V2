@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLite_CRUD</string>
+    <string name="fName">First name</string>
+    <string name="lName">Last name</string>
+    <string name="address">Address</string>
+    <string name="salary">Salary</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="loadAll">Load all</string>
+    <string name="id">Enter ID or leave it empty</string>
+</resources>
