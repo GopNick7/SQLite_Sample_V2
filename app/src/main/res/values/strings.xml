@@ -8,5 +8,5 @@
     <string name="update">Update</string>
     <string name="delete">Delete</string>
     <string name="loadAll">Load all</string>
-    <string name="id">Enter ID or leave it empty</string>
+    <string name="id">Enter ID if you want update or delete data</string>
 </resources>
